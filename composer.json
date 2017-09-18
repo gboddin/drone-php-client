@@ -1,15 +1,15 @@
 {
-    "name": "GIT_USER_ID/GIT_REPO_ID",
+    "name": "gboddin/drone-php-client",
     "version": "0.7.3",
-    "description": "",
+    "description": "Drone PHP Client",
     "keywords": [
         "swagger",
         "php",
         "sdk",
         "api"
     ],
-    "homepage": "http://swagger.io",
-    "license": "proprietary",
+    "homepage": "https://github.com/gboddin/drone-php-client",
+    "license": "mit",
     "authors": [
         {
             "name": "Swagger and contributors",
